@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nkosinathi-ndlovu
-- 👀 I’m interested in cyber security, software development, and web development.
-- 🌱 I’m currently a third-year student and I study BSc Computer Sciences.
+- 👀 I’m interested in data engineering, software development, and web development.
+- 🌱 I’m currently working as a data engineer.
 - 💞️ I’m looking to collaborate on various projects to give me some exposure of the field outside of my studies.
 - 📫 You can reach me right here on GitHub.
 
